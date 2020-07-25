@@ -34,7 +34,7 @@ Here is a working live demo : https://elegant-ride-71a168.netlify.app
 ```shell
 $ git clone git@github.com:facu-zerpa/cat-bot.git
 
-$ cd catbot/catbot
+$ cd cat-bot/catbot
 
 $ npm install
 
