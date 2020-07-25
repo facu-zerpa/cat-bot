@@ -11,7 +11,7 @@
 </table>
 
 ## Demo
-Here is a working live demo : 
+Here is a working live demo : https://elegant-ride-71a168.netlify.app
 
 ## Site
 
